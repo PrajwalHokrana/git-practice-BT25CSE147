@@ -1,2 +1,44 @@
-# git-practice-BT25CSE147
-Git and GitHub practice assignment for Prajwal Hokrana (BT25CSE147)
+# Git Practice Assignment
+
+## Student Details
+
+- Name: Prajwal Hokrana
+- Roll Number: BT25CSE147
+- Section: CSE-C
+
+## Assignment Description
+
+This repository demonstrates basic Git and GitHub operations, including repository creation, staging, commits, branching, merging, pull requests and documentation.
+
+## Exercises Completed
+
+| Exercise | File | Description |
+|---|---|---|
+| 01 | `exercise-01/main.c` | Basic C program |
+| 02 | `exercise-02/main.c` | Basic C program |
+| 03 | `exercise-03/main.c` | Basic C program |
+| 04 | `exercise-04/main.c` | Basic C program |
+
+## Compilation and Execution
+
+Compile any exercise using:
+
+```bash
+gcc exercise-01/main.c -o exercise
+./exercise
+```
+
+Replace `exercise-01` with the required folder for the other exercises.
+
+## Sample Outputs
+
+Refer to the `output.txt` file inside each exercise folder.
+
+## GitHub Activities
+
+- Assignment tracking issue: [#1](https://github.com/PrajwalHokrana/git-practice-BT25CSE147/issues/1)
+- Pull request: [#2](https://github.com/PrajwalHokrana/git-practice-BT25CSE147/pull/2)
+
+## Git Documentation
+
+See [git-commands.md](git-commands.md) for common Git commands and merge-conflict documentation.

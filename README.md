@@ -37,7 +37,7 @@ Refer to the `output.txt` file inside each exercise folder.
 ## GitHub Activities
 
 - Assignment tracking issue: [#1](https://github.com/PrajwalHokrana/git-practice-BT25CSE147/issues/1)
-- Pull request: to be added after the assignment branch is reviewed
+- Pull request: [#2](https://github.com/PrajwalHokrana/git-practice-BT25CSE147/pull/2)
 
 ## Git Documentation
 
